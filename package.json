@@ -1,0 +1,23 @@
+{
+  "name": "tramitesservidor",
+  "version": "1.0.0",
+  "description": "servidor de tramites para la UNSAAC",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index",
+    "dev": "nodemon ."
+  },
+  "author": "naysha diaz",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "json-rpc-2.0": "^0.2.10",
+    "mongodb": "^3.6.3",
+    "mongoose": "^5.11.1"
+  }
+}
