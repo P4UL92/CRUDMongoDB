@@ -68,7 +68,7 @@ class MongoLib {
            "$set":  body 
         },
         {
-           "upsert":true
+           "upsert":false
         });
   
     });
