@@ -60,7 +60,7 @@ function HistorialTramiteApi(app) {
         console.log('Error!');
       }
     });
-  });
+  }); 
 
 
   /*{
