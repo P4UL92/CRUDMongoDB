@@ -35,4 +35,4 @@ class tbsecuenciaRuta {
     return deletedId;
   }
 }
-module.exports = tbsecuenciaRuta; 
+module.exports = tbsecuenciaRuta;  
